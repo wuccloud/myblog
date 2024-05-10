@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://wuccloud.gitee.io/2023/03/01/Furion/</loc>
+    
+    <lastmod>2023-04-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wuccloud.gitee.io/2023/02/16/SqlSugar/</loc>
+    
+    <lastmod>2023-04-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wuccloud.gitee.io/2023/04/04/WebForm%E7%A8%8B%E5%BA%8F%E4%B8%AD%E9%9B%86%E6%88%90Mvc4%E7%9A%84%E6%96%B9%E6%B3%95/</loc>
+    
+    <lastmod>2023-04-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wuccloud.gitee.io/about/index.html</loc>
+    
+    <lastmod>2023-03-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wuccloud.gitee.io/music/index.html</loc>
+    
+    <lastmod>2023-03-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wuccloud.gitee.io/tags/index.html</loc>
+    
+    <lastmod>2023-02-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wuccloud.gitee.io/poetry/index.html</loc>
+    
+    <lastmod>2023-02-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wuccloud.gitee.io/movie/index.html</loc>
+    
+    <lastmod>2023-02-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wuccloud.gitee.io/link/index.html</loc>
+    
+    <lastmod>2023-02-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wuccloud.gitee.io/categories/index.html</loc>
+    
+    <lastmod>2023-02-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>https://wuccloud.gitee.io/</loc>
+    <lastmod>2024-05-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://wuccloud.gitee.io/tags/SqlSugar/</loc>
+    <lastmod>2024-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wuccloud.gitee.io/tags/Furion/</loc>
+    <lastmod>2024-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wuccloud.gitee.io/tags/WebForm/</loc>
+    <lastmod>2024-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://wuccloud.gitee.io/categories/ORM/</loc>
+    <lastmod>2024-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wuccloud.gitee.io/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2024-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wuccloud.gitee.io/categories/ASP-NET/</loc>
+    <lastmod>2024-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+</urlset>
